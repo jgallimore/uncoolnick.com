@@ -2,4 +2,4 @@
 
 Everyone's favourite uncle :)
 
-!(uncoolnick.jpg)
+!(https://github.com/jgallimore/uncoolnick.com/raw/master/uncoolnick.jpg)
